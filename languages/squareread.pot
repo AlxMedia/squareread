@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Squareread\n"
-"POT-Creation-Date: 2021-03-08 19:05+0100\n"
+"POT-Creation-Date: 2021-04-22 14:13+0200\n"
 "PO-Revision-Date: 2018-09-21 21:27+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -56,6 +56,10 @@ msgstr ""
 
 #: footer.php:82
 msgid "Powered by"
+msgstr ""
+
+#: footer.php:82
+msgid "https://wordpress.org"
 msgstr ""
 
 #: footer.php:82
