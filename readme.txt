@@ -8,7 +8,7 @@ Tags: blog, one-column, two-columns, three-columns, right-sidebar, left-sidebar,
 
 == Description ==
 
-Squareread is a responsive 100% high resolution theme for blogs and magazines. Unique toggle sidebars give a great browsing and reading experience on both tablet and mobile. The feature list is long: Unlimited accent colors, unlimited widget areas, 0-2 sidebars to the left or right that can be uniquely specified for each page or post, 300px fixed width sidebars, 0-4 footer widget columns, almost zero layout images, related posts and post nav, 10 post formats, good SEO, 2 flexible custom widgets, localisation support, social links, logo upload and many more useful admin panel features.
+Squareread is a theme for blogs and magazines. Unique toggle sidebars give a great browsing and reading experience on both tablet and mobile. The feature list is long: Unlimited accent colors, 0-2 sidebars to the left or right that can be uniquely specified for each page or post, 300px fixed width sidebars, 0-4 footer widget columns, related posts and post nav, localisation support, social links, logo upload and many more useful admin panel features. Demo: http://demo.alx.media/x/?theme=Squareread
 
 == Installation ==
 
@@ -96,6 +96,9 @@ Sidebar right images
 3. https://stocksnap.io/photo/DGYLV0KMUY - CC0 1.0 Universal (CC0 1.0)
 
 == Changelog ==
+
+= 1.4.4 - 2021-04-27 =
+* Updated theme description
 
 = 1.4.3 - 2021-03-08 =
 * Removed premium theme updater code
