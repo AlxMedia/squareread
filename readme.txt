@@ -99,6 +99,7 @@ Sidebar right images
 
 = 1.4.5 - 2021-05-25 =
 * Fixed compatibility issue with custom nav and various security plugins
+* Updated language files
 
 = 1.4.4 - 2021-04-27 =
 * Updated theme description
