@@ -97,6 +97,9 @@ Sidebar right images
 
 == Changelog ==
 
+= 1.4.5 - 2021-05-25 =
+* Fixed compatibility issue with custom nav and various security plugins
+
 = 1.4.4 - 2021-04-27 =
 * Updated theme description
 
