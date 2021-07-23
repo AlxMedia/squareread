@@ -66,6 +66,9 @@ if ( ! function_exists( 'squareread_setup' ) ) {
 		// Declare WooCommerce support
 		add_theme_support( 'woocommerce' );
 		
+		// Disable support for widgets block editor
+		remove_theme_support( 'widgets-block-editor' );
+		
 		// Thumbnail sizes
 		add_image_size( 'squareread-small', 160, 160, true );
 		add_image_size( 'squareread-medium', 520, 245, true );
