@@ -97,8 +97,8 @@ Sidebar right images
 
 == Changelog ==
 
-= 1.5.0 - 2022-01-24 =
-* Updated to Kirki 4.0
+= 1.5.0 - 2022-03-15 =
+* Updated to Kirki 4.0.22
 
 = 1.4.9 - 2021-08-25 =
 * Added missing theme tags for wordpress.org
