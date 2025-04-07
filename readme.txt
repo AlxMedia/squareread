@@ -8,7 +8,7 @@ Tags: blog, news, entertainment, one-column, two-columns, three-columns, right-s
 
 == Description ==
 
-Squareread is a theme for blogs and magazines. Unique toggle sidebars give a great browsing and reading experience on both tablet and mobile. The feature list is long: Unlimited accent colors, 0-2 sidebars to the left or right that can be uniquely specified for each page or post, 300px fixed width sidebars, 0-4 footer widget columns, related posts and post nav, localisation support, social links, logo upload and many more useful admin panel features. Demo: http://demo.alx.media/x/?theme=Squareread
+Squareread is a theme for blogs and magazines. Unique toggle sidebars give a great browsing and reading experience on both tablet and mobile. The feature list is long: Unlimited accent colors, 0-2 sidebars to the left or right that can be uniquely specified for each page or post, 300px fixed width sidebars, 0-4 footer widget columns, related posts and post nav, localisation support, social links, logo upload and many more useful admin panel features. Demo: https://demo.agnarson.com/?theme=Squareread
 
 == Installation ==
 
@@ -19,7 +19,7 @@ Squareread is a theme for blogs and magazines. Unique toggle sidebars give a gre
 
 == Documentation ==
 
-http://alx.media/documentation/
+https://agnarson.com/documentation/
 
 == Copyright ==
 
